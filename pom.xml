@@ -11,6 +11,14 @@
     <modules>
         <module>Generic</module>
         <module>Yelp</module>
+
+        <module>Amazon</module>
+
+        <module>Walmart</module>
+
+
+        <module>CNN</module>
+
     </modules>
     <dependencyManagement>
 <dependencies>
