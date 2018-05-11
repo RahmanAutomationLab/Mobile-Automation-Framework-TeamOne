@@ -16,9 +16,10 @@
 
         <module>Walmart</module>
 
-
+        <module>Walmart</module>
         <module>CNN</module>
-
+        <module>NBC</module>
+        <module>NBC1</module>
     </modules>
     <dependencyManagement>
 <dependencies>
